@@ -1,0 +1,9 @@
+/.idea
+config.codekit
+!.gitignore
+.DS_Store
+logs/error.log
+
+src/app/etc/local.xml
+src/var/cache/
+src/var/session/
