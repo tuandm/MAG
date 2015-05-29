@@ -2,6 +2,9 @@ body {
   font-family: 'Lato', sans-serif;
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #FEFBF0; }
+
+.wrapper {
   background-color: #F6F4EA; }
 
 .logo-wrap {
@@ -10,9 +13,6 @@ body {
 
 .header-container {
   background-color: #FEFBF0; }
-
-.content {
-  background-color: #F6F4EA; }
 
 .top-menu ul {
   padding: 0;
@@ -55,6 +55,12 @@ body {
     font-size: 13px;
     font-weight: bold; }
 
+.home-slider {
+  margin-top: 30px; }
+
+#footer {
+  padding-top: 25px; }
+
 .foot-nav-wrap {
   display: block;
   background-color: #FEFBF0; }
@@ -75,5 +81,6 @@ body {
           text-decoration: underline; }
 
 .copyright p.copy {
-  font-size: 9px;
-  color: #9B1B64; }
+  font-size: 11px;
+  color: #9B1B64;
+  padding-top: 10px; }

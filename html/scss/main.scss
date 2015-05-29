@@ -1,12 +1,16 @@
 $purple: #9B1B64;
 
-$fs_little: 9px;
+$fs_little: 11px;
 
 
 body{
   font-family: 'Lato', sans-serif;
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #FEFBF0;
+}
+
+.wrapper{
   background-color: #F6F4EA;
 }
 
@@ -19,11 +23,7 @@ body{
   background-color: #FEFBF0;
 }
 
-.content{
-  background-color: #F6F4EA;
-}
-
-
+.content{}
 
 .top-menu{
   ul{
@@ -89,10 +89,19 @@ body{
 }
 
 
+.home-slider{
+  margin-top:30px;
+}
 
+
+
+#footer{
+  padding-top:25px;
+}
 
 
 .foot-nav-wrap{
+
   display: block;
   background-color: #FEFBF0;
 
@@ -124,6 +133,7 @@ body{
   p.copy{
     font-size: $fs_little;
     color: $purple;
+    padding-top: 10px;
   }
 }
 
