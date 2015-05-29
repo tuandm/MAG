@@ -13,11 +13,14 @@ FLUSH PRIVILEGES;
 ```
 
 ## System Requirements
+
 ### PHP
 - Version PHP 5.5+
+
 ### Webserver 
 - Apache with mod_rewrite
 - (Or) Nginx
+
 ### MySQL 
 - Version >= 5.5
 
