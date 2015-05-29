@@ -1,0 +1,1288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"go",
+				"Google Chrome.app"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"pdl",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"html",
+				"html5"
+			],
+			[
+				"a",
+				"alt"
+			],
+			[
+				"se",
+				"seperator"
+			],
+			[
+				"di",
+				"d:ib	display:inline-block"
+			],
+			[
+				"web",
+				"website_badge.png	w:360 h:360"
+			],
+			[
+				"ow",
+				"ownership_badge.png	w:178 h:150"
+			],
+			[
+				"un",
+				"unlimited_badge.png	w:178 h:150"
+			],
+			[
+				"bg",
+				"bgc:t	background-color:transparent"
+			],
+			[
+				"banner",
+				"banner-home"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"da",
+				"daniel_b.jpg	w:480 h:485"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"50",
+				"50m2"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"lo",
+				"location-icon.png	w:45 h:46"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"max",
+				"maxScore"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"error",
+				"error_log〔function〕"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"ec",
+				"ecosystem.jpg	w:118 h:33"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"load",
+				"loan_hd_bottom.jpg	w:801 h:58"
+			],
+			[
+				"loadn",
+				"loan_hd_top.jpg	w:801 h:106"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"sode",
+				"Widget - Soda Light (SL).tmTheme"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4337,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"beay",
+				"HTMLBeautify"
+			],
+			[
+				"bs",
+				"Snippet: bs3-sm-button-warning"
+			],
+			[
+				"input",
+				"Snippet: bs3-input-select-h"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"beuti",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"gutt",
+				"GutterColor: Fix Current Color Scheme"
+			],
+			[
+				"gutter",
+				"GutterColor: Clear Cache"
+			],
+			[
+				"select",
+				"Snippet: bs3-select"
+			],
+			[
+				"text",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"table",
+				"Snippet: bs3-table"
+			],
+			[
+				"talb",
+				"Snippet: bs3-table-bordered"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"bs3 tem",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"HTML",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"md",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"intaal",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tonynguyen/local/MAG",
+		"/Users/tonynguyen/local/MAG/html",
+		"/Users/tonynguyen/local/MAG/html/css",
+		"/Users/tonynguyen/local/MAG/html/scss"
+	],
+	"file_history":
+	[
+		"/Users/tonynguyen/local/MAG/html/css/main.css",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/tonynguyen/local/MAG/html/index.html",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/js/main.js",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/style.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-du-an.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-du-an-lang-sen.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/homepage/user_like.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/user/statistics.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/user/notification/view.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/layout/layout.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/layout/partial/social_sidebar.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/layout/partial/user_status.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/phuc-khang-net.css",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/homepage/index.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/homepage/post_box.php",
+		"/Users/tonynguyen/local/landbook/src/ci/application/views/layout/partial/comment.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/plugins/simple-local-avatars/simple-local-avatars.php",
+		"/Users/tonynguyen/local/landbook/src/wp-config-sample.php",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/content.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/single.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/content-category.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/content-post.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/content-page.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/category-tin-tuc.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/index.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/category.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/functions.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/js/functions.js",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/functions.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/archive.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/content-none.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/index.html",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/header.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-home.php",
+		"/Users/tonynguyen/local/landbook/.gitignore",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/style.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-social-home.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/comments.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/search.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/comments.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/404.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/content-search.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/archive.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-user-friends.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/footer.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/searchform.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/single.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-user-photo.php",
+		"/Users/tonynguyen/local/landbook/src/wp-config.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-social-notification.php",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/custom.css",
+		"/Users/tonynguyen/Desktop/shit.md",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/content-page.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/content.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/content-none.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/page.php",
+		"/Users/tonynguyen/local/landbook/html/du-an-langsen.html",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/footer.php",
+		"/Users/tonynguyen/local/landbook/html/index.html",
+		"/Users/tonynguyen/local/landbook/html/du-an.html",
+		"/Users/tonynguyen/local/landbook/html/js/main.js",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/functions.php ",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/inc/customizer.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/inc/template-tags.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/inc/custom-header.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/js/functions.php ",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/header.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/sidebar.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/index.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/rtl.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/404.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/readme.txt",
+		"/Users/tonynguyen/local/landbook/src/.htaccess",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/readme.md",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/home.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/bootstrap.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/font-awesome.min.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/font-awesome.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen/style.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/sidebar.php",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/css/editor-style.css",
+		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/readme.txt",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/sass/style.scss",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/services.html",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/sass/style-xsmall.scss",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/css/style-xsmall.css",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/css/style.css",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/index.html",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/template.html",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/js/init.js",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/about.html",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/sass/_vars.scss",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/sass/style-medium.scss",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/_index.html",
+		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/96A46695-583D-4E03-BB8D-4ADD33B1E19F/error_log",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/sass/_mixins.scss",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/css/skel.css",
+		"/Users/tonynguyen/Downloads/archives/webdev-files/chunks/navigation.html",
+		"/Users/tonynguyen/Downloads/archives/webdev-files/WebdevelopmentTemplate1.html",
+		"/Users/tonynguyen/Downloads/documents/Ha2reportController.php",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/sass/style-large.scss",
+		"/Users/tonynguyen/local/Webpuppies/wp_html/css/style-large.css",
+		"/Users/tonynguyen/local/landbook/html/css/main.css",
+		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/480ADC4C-F1DA-445B-BE31-87B9AB4BA76C/index.php",
+		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/2B36063D-7E2A-46E0-8C62-F91CC82716D0/test_file.txt",
+		"/Users/tonynguyen/local/incoming/step_asia_aboutus.html",
+		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/3407CF6E-63FB-412C-B6CA-5D22F2EED6B1/zzzindex.php",
+		"/Users/tonynguyen/local/yii2/onsen_v202/web/robots.txt",
+		"/Users/tonynguyen/local/yii2/onsen_v202/views/site/index.php",
+		"/Users/tonynguyen/local/yii2/onsen_v202/web/js/app.js",
+		"/Users/tonynguyen/local/yii2/onsen_v202/web/index.php",
+		"/Users/tonynguyen/local/yii2/onsen_v202/vendor/ezyang/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormed/SkipInjectorTest.php",
+		"/Users/tonynguyen/local/yii2/onsen_v202/vendor/swiftmailer/swiftmailer/lib/swift_init.php",
+		"/Users/tonynguyen/local/yii2/onsen_v202/controllers/SimpleController.php",
+		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/du-an.html",
+		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/css/main.css",
+		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/du-an-langsen.html",
+		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/notes.txt",
+		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/index.html",
+		"/Users/tonynguyen/local/StarBlazerQuest/themes/main/views/user/admin.php",
+		"/Users/tonynguyen/local/StarBlazerQuest/themes/main/views/user/manageusers.php",
+		"/Users/tonynguyen/local/StarBlazerQuest/themes/main/views/episode5report/_viewuser.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/Users/tonynguyen/local/landbook/src/ci",
+			"/Users/tonynguyen/local/landbook/src/wp-content/themes/twentyfifteen",
+			"<project>",
+			"/Users/tonynguyen/local/cma-academy.edu.sg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"block",
+			"project-mobile-link",
+			"project-",
+			"project-down",
+			"hover",
+			"project-down",
+			"user_like",
+			"stack",
+			"social-sidebar",
+			"socail-sidebar",
+			"social-cotent",
+			"46",
+			"comment-item",
+			"media-left",
+			".user-feed-media-comment",
+			"user-feed",
+			"sub-nav-wrap",
+			"/ / propotional resize",
+			"news",
+			"screen-reader-text",
+			"the_content'",
+			"the_content",
+			"read",
+			"continue",
+			"post_thumbnail",
+			"phuckhang_post_thumbnail",
+			"    //",
+			"social-sidebar",
+			"green",
+			"#",
+			".navbar",
+			"navbar",
+			"#header",
+			"header",
+			"footer",
+			"twentyfifteen",
+			"comments",
+			"twentyfifteen",
+			"thumbnail",
+			"<span class=\"friend-name\">",
+			"<br />",
+			"photo-item",
+			"<br />",
+			"<div class=\"col-md-3 col-sm-4 col-xs-6\">",
+			"random",
+			"paris,girl",
+			"<img src=\"http://loremflickr.com/g/320/240/paris,girl/all",
+			"200",
+			"<img src=\"http://loremflickr.com/g/100/100",
+			"img",
+			"<div class=\"noti-datetime\">",
+			"date-wrap",
+			"</br>",
+			"col-md-10",
+			"col-md-2",
+			"<div class=\"clearfix\"></div>",
+			"form-control",
+			"control",
+			"                \n",
+			"<li>",
+			"#header",
+			"header",
+			"<i class=\"icon-group\"></i>",
+			"<a href=\"#\">",
+			"twentyfifteen",
+			"<img src=\"",
+			"img src=\"",
+			"img src=\"<?php echo esc_url( get_template_directory_uri() ); ?>/",
+			"img src=\"",
+			"../",
+			"images",
+			"<div class=\"project-right\">\n                        <a href=\"<?php echo site_url(); ?>/du-an/du-an-lang-sen/\">\n                          <img src=\"<?php echo esc_url( get_template_directory_uri() ); ?>/images/location-icon.png\" height=\"46\" width=\"45\" alt=\"\">\n                          xem bản đồ\n                        </a>\n                      </div>",
+			"<a href=\"<?php echo site_url(); ?>/du-an/du-an-lang-sen/\">",
+			"du-an-langsen.html",
+			"twentyfifteen-style",
+			"get_template_directory_uri",
+			"robotos",
+			"open-sans",
+			"twentyfifteen",
+			"functions.php",
+			"after_setup_theme",
+			"twentyfifteen_setup",
+			"register_nav_menus",
+			"navigation",
+			"nav",
+			"navs",
+			"register_nav_menus",
+			"primary",
+			"navigation",
+			"sidebar",
+			"side",
+			"main-navigation",
+			".main-navigation",
+			"navigation",
+			"../",
+			"images",
+			"../",
+			"../font",
+			"font",
+			"style.css",
+			"digital",
+			";\n",
+			".banner-link",
+			"small-heading",
+			"small",
+			"webpuppies",
+			"host",
+			"/Users/tonynguyen/local",
+			"copyright",
+			"we take",
+			"background-image",
+			"a",
+			"0.5",
+			"50",
+			"copyright",
+			"img",
+			"input",
+			"submit",
+			"input",
+			"lets",
+			".banner",
+			"banner",
+			"#banner",
+			"header",
+			">\n",
+			"clear",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php echo site_url(); ?>/du-an/du-an-lang-sen/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 407,
+						"regions":
+						{
+							"gutter_color_258":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										328,
+										351
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_317":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										328,
+										351
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_328":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										328,
+										351
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "sass",
+							"buffer_scroll_name": "abfeb16f",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"function_name_status_row": 2,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1728,
+								1728
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "2513efee",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"function_name_status_row": 40,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 536.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 156.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mag.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user_like",
+				"landbook/src/ci/application/views/homepage/user_like.php"
+			],
+			[
+				"site",
+				"controllers/SiteController.php"
+			],
+			[
+				"epsi",
+				"protected/models/Episode5.php"
+			],
+			[
+				"epis",
+				"protected/models/Episode4.php"
+			],
+			[
+				"epside",
+				"protected/models/Episode3.php"
+			],
+			[
+				"episode",
+				"protected/models/Episode5.php"
+			],
+			[
+				"epidoe",
+				"protected/models/Episode5.php"
+			],
+			[
+				"usercont",
+				"protected/controllers/UserController.php"
+			],
+			[
+				"user",
+				"protected/models/User.php"
+			],
+			[
+				"batchcon",
+				"protected/controllers/BatchController.php"
+			],
+			[
+				"batch",
+				"protected/models/Batch.php"
+			],
+			[
+				"coy",
+				"protected/models/Coy.php"
+			],
+			[
+				"api",
+				"protected/controllers/ApiController.php"
+			],
+			[
+				"episo",
+				"protected/models/Episode5.php"
+			],
+			[
+				"ep",
+				"protected/models/Episode1.php"
+			],
+			[
+				"sitecont",
+				"protected/controllers/SiteController.php"
+			],
+			[
+				"main",
+				"protected/config/main.php"
+			],
+			[
+				"epise",
+				"protected/models/Episode4.php"
+			],
+			[
+				"index.php",
+				"btsg/index.php"
+			],
+			[
+				"2014iven",
+				"promotions/2014iventure.php"
+			],
+			[
+				"promo",
+				"promotions.html"
+			],
+			[
+				"apicont",
+				"protected/controllers/ApiController.php"
+			],
+			[
+				"batchcontro",
+				"protected/controllers/BatchController.php"
+			],
+			[
+				"ajax",
+				"assets/1d35387d/jquery.ajaxqueue.js"
+			],
+			[
+				"tr",
+				"tryon.php"
+			],
+			[
+				"product",
+				"products_cakes.php"
+			],
+			[
+				"promot",
+				"promotions.php"
+			],
+			[
+				"pro",
+				"promotions.php"
+			],
+			[
+				"prom",
+				"promotions.php"
+			],
+			[
+				"ev",
+				"ev.php"
+			],
+			[
+				"cras",
+				"crafts.php"
+			],
+			[
+				"men",
+				"menu.php"
+			],
+			[
+				"face",
+				"facebook.php"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"menu",
+				"menu.php"
+			],
+			[
+				"syl",
+				"css/style.css"
+			],
+			[
+				"crsa",
+				"crafts.php"
+			],
+			[
+				"heaedr",
+				"header.php"
+			],
+			[
+				"fan",
+				"lib/jquery.fancybox.css"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"her",
+				"header.php"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"inter",
+				"interact.php"
+			],
+			[
+				"craft",
+				"crafts.html"
+			],
+			[
+				"app",
+				"aptitude.php"
+			],
+			[
+				"sy",
+				"css/style.css"
+			],
+			[
+				"cra",
+				"crafts.php"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"crafts",
+				"crafts.html"
+			],
+			[
+				"inte",
+				"interact2.php"
+			],
+			[
+				"apd",
+				"aptitude.html"
+			],
+			[
+				"ddcd",
+				"14Nov13/ddcd.html"
+			],
+			[
+				"pdad",
+				"14Nov13/pdad.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
