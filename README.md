@@ -4,6 +4,8 @@ MAG - Magento And Girls
 - Database name: *magento*
 - Database user: *magento*
 - Database pass: *magento*
+- Admin user: *magento*
+- Admin pass: *admin123*
 
 ### Create database credentials
 ```
