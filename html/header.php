@@ -35,7 +35,7 @@
           </a>
           </li><!-- 0 -->
           <li class="menu-item-link menu-item-depth-0  ">
-            <a href="/contact-us.html/"><span>Contact</span>
+            <a href="contact.php"><span>Contact</span>
           </a>
           </li><!-- 0 -->
         </ul>
