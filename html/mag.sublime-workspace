@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"ty",
+				"typography.scss"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
 				"go",
 				"Google Chrome.app"
 			],
@@ -184,10 +196,6 @@
 				"ecosystem.jpg	w:118 h:33"
 			],
 			[
-				"im",
-				"img/"
-			],
-			[
 				"load",
 				"loan_hd_bottom.jpg	w:801 h:58"
 			],
@@ -243,15 +251,23 @@
 			"file": "scss/main.scss",
 			"settings":
 			{
-				"buffer_size": 407,
+				"buffer_size": 1835,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "about.php",
 			"settings":
 			{
-				"buffer_size": 4337,
+				"buffer_size": 2196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/typography.scss",
+			"settings":
+			{
+				"buffer_size": 253,
 				"line_ending": "Unix"
 			}
 		}
@@ -264,15 +280,39 @@
 	"command_palette":
 	{
 		"height": 375.0,
-		"last_filter": "install",
+		"last_filter": "disa",
 		"selected_items":
 		[
 			[
-				"install",
-				"Package Control: Install Package"
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"beatu",
+				"HTMLBeautify"
 			],
 			[
 				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -300,16 +340,8 @@
 				"HTMLBeautify"
 			],
 			[
-				"html",
-				"HTMLBeautify"
-			],
-			[
 				"lore",
 				"Snippet: Lorem ipsum"
-			],
-			[
-				"php",
-				"Set Syntax: PHP"
 			],
 			[
 				"remove",
@@ -322,14 +354,6 @@
 			[
 				"enable",
 				"Package Control: Enable Package"
-			],
-			[
-				"disable",
-				"Package Control: Disable Package"
-			],
-			[
-				"disa",
-				"Package Control: Disable Package"
 			],
 			[
 				"gutt",
@@ -439,14 +463,29 @@
 	[
 		"/Users/tonynguyen/local/MAG",
 		"/Users/tonynguyen/local/MAG/html",
-		"/Users/tonynguyen/local/MAG/html/css",
 		"/Users/tonynguyen/local/MAG/html/scss"
 	],
 	"file_history":
 	[
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/tonynguyen/local/MAG/html/index.php",
+		"/Users/tonynguyen/local/MAG/html/about.php",
+		"/Users/tonynguyen/local/MAG/html/scss/main.scss",
+		"/Users/tonynguyen/local/MAG/html/css/typography.css",
 		"/Users/tonynguyen/local/MAG/html/css/main.css",
-		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/tonynguyen/local/MAG/html/header.php",
+		"/Users/tonynguyen/local/MAG/html/scss/typography.scss",
+		"/Users/tonynguyen/local/MAG/html/footer_close.php",
+		"/Users/tonynguyen/local/MAG/html/footer.php",
 		"/Users/tonynguyen/local/MAG/html/index.html",
+		"/Users/tonynguyen/local/MAG/html/about.html",
+		"/Users/tonynguyen/local/MAG/html/css/flexslider.css",
+		"/Users/tonynguyen/Downloads/woothemes-FlexSlider-8ed61ac/demo/css/demo.css",
+		"/Users/tonynguyen/Downloads/woothemes-FlexSlider-8ed61ac/demo/basic-carousel.html",
+		"/Users/tonynguyen/local/MAG/html/js/main.js",
+		"/Users/tonynguyen/local/MAG/html/css/bootstrap-theme.css",
+		"/Users/tonynguyen/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/js/main.js",
 		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/style.css",
 		"/Users/tonynguyen/local/landbook/src/wp-content/themes/phuckhang/page-du-an.php",
@@ -555,27 +594,11 @@
 		"/Users/tonynguyen/local/landbook/html/css/main.css",
 		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/480ADC4C-F1DA-445B-BE31-87B9AB4BA76C/index.php",
 		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/2B36063D-7E2A-46E0-8C62-F91CC82716D0/test_file.txt",
-		"/Users/tonynguyen/local/incoming/step_asia_aboutus.html",
-		"/Users/tonynguyen/Library/Caches/Cleanup At Startup/Transmit/3407CF6E-63FB-412C-B6CA-5D22F2EED6B1/zzzindex.php",
-		"/Users/tonynguyen/local/yii2/onsen_v202/web/robots.txt",
-		"/Users/tonynguyen/local/yii2/onsen_v202/views/site/index.php",
-		"/Users/tonynguyen/local/yii2/onsen_v202/web/js/app.js",
-		"/Users/tonynguyen/local/yii2/onsen_v202/web/index.php",
-		"/Users/tonynguyen/local/yii2/onsen_v202/vendor/ezyang/htmlpurifier/tests/HTMLPurifier/Strategy/MakeWellFormed/SkipInjectorTest.php",
-		"/Users/tonynguyen/local/yii2/onsen_v202/vendor/swiftmailer/swiftmailer/lib/swift_init.php",
-		"/Users/tonynguyen/local/yii2/onsen_v202/controllers/SimpleController.php",
-		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/du-an.html",
-		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/css/main.css",
-		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/du-an-langsen.html",
-		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/notes.txt",
-		"/Users/tonynguyen/local/phuckhang/phuckhang_v.2.0/web/index.html",
-		"/Users/tonynguyen/local/StarBlazerQuest/themes/main/views/user/admin.php",
-		"/Users/tonynguyen/local/StarBlazerQuest/themes/main/views/user/manageusers.php",
-		"/Users/tonynguyen/local/StarBlazerQuest/themes/main/views/episode5report/_viewuser.php"
+		"/Users/tonynguyen/local/incoming/step_asia_aboutus.html"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -593,6 +616,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h2",
+			">",
+			"border-left",
+			"slider",
+			"border",
+			"0",
+			"<a href=\"#\" class=\"arrow\"><span>&gt;</span></a>",
+			"http://juicejunkie.com.sg/index.php",
+			"            \n    \n\n          \n\n          \n  \n        \n              ",
+			"hover",
 			"header",
 			"block",
 			"project-mobile-link",
@@ -710,17 +743,7 @@
 			"50",
 			"copyright",
 			"img",
-			"input",
-			"submit",
-			"input",
-			"lets",
-			".banner",
-			"banner",
-			"#banner",
-			"header",
-			">\n",
-			"clear",
-			"form"
+			"input"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -740,7 +763,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -749,44 +772,252 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 407,
+						"buffer_size": 1835,
 						"regions":
 						{
+							"gutter_color_104":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										97,
+										125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_109":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										97,
+										125
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1178":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										1176,
+										1197
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1183":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										1176,
+										1197
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1188":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										1176,
+										1197
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1368":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										1366,
+										1394
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1373":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										1366,
+										1394
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1378":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										1366,
+										1394
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_141":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F6F4EA.png",
+								"regions":
+								[
+									[
+										139,
+										167
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_146":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F6F4EA.png",
+								"regions":
+								[
+									[
+										139,
+										167
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_151":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F6F4EA.png",
+								"regions":
+								[
+									[
+										139,
+										167
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_251":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										251,
+										279
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_253":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										251,
+										279
+									]
+								],
+								"scope": "gutter_color"
+							},
 							"gutter_color_258":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#97254a.png",
+								"icon": "Cache/GutterColor/#FEFBF0.png",
 								"regions":
 								[
 									[
-										328,
-										351
+										251,
+										279
 									]
 								],
 								"scope": "gutter_color"
 							},
-							"gutter_color_317":
+							"gutter_color_263":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										251,
+										279
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_475":
 							{
 								"flags": 144,
 								"icon": "Cache/GutterColor/#97254a.png",
 								"regions":
 								[
 									[
-										328,
-										351
+										473,
+										496
 									]
 								],
 								"scope": "gutter_color"
 							},
-							"gutter_color_328":
+							"gutter_color_480":
 							{
 								"flags": 144,
 								"icon": "Cache/GutterColor/#97254a.png",
 								"regions":
 								[
 									[
-										328,
-										351
+										473,
+										496
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_485":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#97254a.png",
+								"regions":
+								[
+									[
+										473,
+										496
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_99":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#FEFBF0.png",
+								"regions":
+								[
+									[
+										97,
+										125
 									]
 								],
 								"scope": "gutter_color"
@@ -795,8 +1026,8 @@
 						"selection":
 						[
 							[
-								57,
-								57
+								279,
+								279
 							]
 						],
 						"settings":
@@ -804,11 +1035,16 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -819,36 +1055,21 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -858,40 +1079,52 @@
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"bs_sintax": "sass",
 							"buffer_scroll_name": "abfeb16f",
 							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
-							"function_name_status_row": 2,
+							"function_name_status_row": 20,
 							"incomplete_sync": null,
-							"open_with_edit": true,
 							"remote_loading": false,
+							"spell_check": false,
 							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "about.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4337,
+						"buffer_size": 2196,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1728,
-								1728
+								2089,
+								2089
 							]
 						],
 						"settings":
@@ -900,11 +1133,16 @@
 							"auto_complete": false,
 							"bh_regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -915,36 +1153,21 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -954,26 +1177,209 @@
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
-							"bs_sintax": "html",
-							"buffer_scroll_name": "2513efee",
+							"bs_sintax": "php",
+							"buffer_scroll_name": "a3d9fb78",
 							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
-							"function_name_status_row": 40,
+							"function_name_status_row": 35,
 							"incomplete_sync": null,
 							"is_xml": false,
 							"remote_loading": false,
 							"spell_check": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 536.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+							"gutter_color_0":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#9B1B64.png",
+								"regions":
+								[
+									[
+										0,
+										24
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_100":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#9B1B64.png",
+								"regions":
+								[
+									[
+										149,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_101":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#9B1B64.png",
+								"regions":
+								[
+									[
+										149,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_149":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#9B1B64.png",
+								"regions":
+								[
+									[
+										149,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_25":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#9B1B64.png",
+								"regions":
+								[
+									[
+										25,
+										42
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_72":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#9B1B64.png",
+								"regions":
+								[
+									[
+										149,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "sass",
+							"buffer_scroll_name": "2d05c2aa",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"function_name_status_row": 6,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
