@@ -2,7 +2,6 @@
   margin-top: 30px;
 }
 
-
 .products-grid{
   margin: 0;
   padding: 0;
@@ -11,6 +10,13 @@
 
 .products-grid .item{
   list-style-type: none;
+}
+
+.product-image{
+
+  img{
+    margin: 0 auto;
+  }
 }
 
 .products-grid .product-name {
