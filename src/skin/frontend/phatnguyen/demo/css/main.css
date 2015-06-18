@@ -1,0 +1,177 @@
+body {
+  font-family: "Lato", sans-serif;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #FEFBF0; }
+
+h1, h2, h3, h4 {
+  font-family: "Lato", sans-serif; }
+
+h1 {
+  font-size: 1.25em;
+  /* 20/16 */
+  line-height: 24px;
+  color: #9B1B64;
+  margin: 30px 0px 10px;
+  text-transform: uppercase; }
+
+h4 {
+  font-size: 20px;
+  line-height: 24px; }
+
+p {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 1em;
+  padding: 0px; }
+
+a {
+  color: #9B1B64; }
+
+.sub-title {
+  color: #9B1B64; }
+
+.content {
+  margin: 30px auto;
+  padding-bottom: 30px;
+  min-height: 100%; }
+
+.page-title {
+  margin-bottom: 25px; }
+
+.wrapper {
+  background-color: #F6F4EA; }
+
+.logo-wrap {
+  text-align: center;
+  padding-bottom: 60px; }
+
+.header-container {
+  background-color: #FEFBF0; }
+
+.top-menu ul {
+  padding: 0;
+  margin: 0;
+  float: right;
+  display: inline-block; }
+  .top-menu ul li {
+    float: left;
+    display: block;
+    margin-left: 30px; }
+    .top-menu ul li a {
+      color: #97254a;
+      text-transform: uppercase; }
+
+.main-nav-wrap ul.main-nav {
+  padding: 0;
+  margin: 0px 0px 25px 0px; }
+  .main-nav-wrap ul.main-nav .menu-item-link {
+    text-transform: uppercase;
+    list-style: none; }
+    .main-nav-wrap ul.main-nav .menu-item-link ul.menu-container {
+      display: none; }
+  .main-nav-wrap ul.main-nav .menu-item-depth-0:first-child {
+    margin-left: 0px;
+    float: left; }
+  .main-nav-wrap ul.main-nav .menu-item-depth-0 {
+    display: inline-block;
+    position: relative;
+    margin: 0px;
+    text-align: left;
+    padding-bottom: 10px;
+    width: 18%; }
+  .main-nav-wrap ul.main-nav .menu-item-depth-0 a {
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    padding: 5px 0;
+    text-decoration: none;
+    color: #97254a;
+    font-size: 13px;
+    font-weight: bold; }
+
+#footer {
+  padding-top: 25px; }
+
+.foot-nav-wrap {
+  display: block;
+  background-color: #FEFBF0; }
+  .foot-nav-wrap ul.foot-nav {
+    display: block;
+    margin: 0;
+    padding: 0; }
+    .foot-nav-wrap ul.foot-nav li {
+      display: block;
+      float: left;
+      margin: 0 10px 0 0px;
+      padding: 2px; }
+      .foot-nav-wrap ul.foot-nav li a {
+        display: block;
+        color: #9B1B64;
+        text-transform: uppercase; }
+        .foot-nav-wrap ul.foot-nav li a:hover {
+          text-decoration: underline; }
+
+.copyright p.copy {
+  font-size: 11px;
+  color: #9B1B64;
+  padding-top: 10px; }
+
+.home-slider {
+  margin-top: 30px; }
+
+.about-content {
+  max-width: 1260px;
+  margin: 30px auto;
+  padding-bottom: 30px; }
+  .about-content h4 {
+    margin-top: 30px; }
+  .about-content p {
+    max-width: 870px;
+    margin: auto auto 1em auto; }
+
+.category-products {
+  margin-top: 30px; }
+
+.products-grid {
+  margin: 0;
+  padding: 0;
+  list-style: outside none none; }
+
+.products-grid .item {
+  list-style-type: none; }
+
+.product-image img {
+  margin: 0 auto; }
+
+.products-grid .product-name {
+  margin: 0px 0px 5px;
+  font-size: 16px;
+  color: #203548;
+  text-align: center; }
+
+.products-grid .product-name a {
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none; }
+
+.elements {
+  text-align: center;
+  font-style: italic; }
+
+ul.benefit {
+  margin: 0;
+  padding: 0;
+  list-style: outside none none; }
+  ul.benefit .detoxflush, ul.benefit .energybooster, ul.benefit .antioxidantshot, ul.benefit .hearthealth, ul.benefit .musclepower {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    text-indent: -1000px; }
+
+.benefit-label {
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px; }
