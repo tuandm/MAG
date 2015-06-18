@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!--
+/*
+ * MAG
+ * http://magento.dev
+ *
+ * @description  Layout modifications
+ * @author       Tuan Duong <duongthaso@gmail.com>
+ * @package      MAG
+ *
+ */
+-->
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <!-- jQuery CDN -->
+            <block type="core/text" name="cdn.jquery">
+                <action method="setText">
+                    <text>
+                        <![CDATA[
+                        <script type="text/javascript">jQuery.noConflict();</script>
+                        ]]>
+                    </text>
+                </action>
+            </block>
+        </reference>
+    </default>
+
+    <cms_index_index>
+        <reference name="head">
+            <!-- add items just on the homepage -->
+            <action method="addJs"><script>mag/vendor/jquery.flexslider-min.js</script></action>
+        </reference>
+    </cms_index_index>
+</layout>
