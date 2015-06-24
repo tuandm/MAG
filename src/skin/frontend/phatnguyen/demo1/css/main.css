@@ -1,8 +1,44 @@
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: #FEFBF0; }
+
+h1, h2, h3, h4 {
+  font-family: "Lato", sans-serif; }
+
+h1 {
+  font-size: 1.25em;
+  /* 20/16 */
+  line-height: 24px;
+  color: #9B1B64;
+  margin: 30px 0px 10px;
+  text-transform: uppercase; }
+
+h4 {
+  font-size: 20px;
+  line-height: 24px; }
+
+p {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 1em;
+  padding: 0px; }
+
+a {
+  color: #9B1B64; }
+
+.sub-title {
+  color: #9B1B64; }
+
+.content {
+  margin: 30px auto;
+  padding-bottom: 30px;
+  min-height: 100%; }
+
+.page-title {
+  margin-bottom: 25px; }
 
 .wrapper {
   background-color: #F6F4EA; }
@@ -55,9 +91,6 @@ body {
     font-size: 13px;
     font-weight: bold; }
 
-.home-slider {
-  margin-top: 30px; }
-
 #footer {
   padding-top: 25px; }
 
@@ -84,3 +117,61 @@ body {
   font-size: 11px;
   color: #9B1B64;
   padding-top: 10px; }
+
+.home-slider {
+  margin-top: 30px; }
+
+.about-content {
+  max-width: 1260px;
+  margin: 30px auto;
+  padding-bottom: 30px; }
+  .about-content h4 {
+    margin-top: 30px; }
+  .about-content p {
+    max-width: 870px;
+    margin: auto auto 1em auto; }
+
+.category-products {
+  margin-top: 30px; }
+
+.products-grid {
+  margin: 0;
+  padding: 0;
+  list-style: outside none none; }
+
+.products-grid .item {
+  list-style-type: none; }
+
+.product-image img {
+  margin: 0 auto; }
+
+.products-grid .product-name {
+  margin: 0px 0px 5px;
+  font-size: 16px;
+  color: #203548;
+  text-align: center; }
+
+.products-grid .product-name a {
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none; }
+
+.elements {
+  text-align: center;
+  font-style: italic; }
+
+ul.benefit {
+  margin: 0;
+  padding: 0;
+  list-style: outside none none; }
+  ul.benefit .detoxflush, ul.benefit .energybooster, ul.benefit .antioxidantshot, ul.benefit .hearthealth, ul.benefit .musclepower {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    text-indent: -1000px; }
+
+.benefit-label {
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px; }

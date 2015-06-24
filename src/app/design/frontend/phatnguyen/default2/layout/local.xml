@@ -29,7 +29,7 @@
     <cms_index_index>
         <reference name="head">
             <!-- add items just on the homepage -->
-            <action method="addJs"><script>phatnguyen/vendor/jquery.flexslider-min.js</script></action>
+            <action method="addJs"><script>mag/vendor/jquery.flexslider-min.js</script></action>
         </reference>
     </cms_index_index>
 </layout>
