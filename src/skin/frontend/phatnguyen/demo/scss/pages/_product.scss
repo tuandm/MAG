@@ -1,0 +1,68 @@
+.category-products{
+  margin-top: 30px;
+}
+
+.products-grid{
+  margin: 0;
+  padding: 0;
+  list-style: outside none none;
+}
+
+.products-grid .item{
+  list-style-type: none;
+}
+
+.product-image{
+
+  img{
+    margin: 0 auto;
+  }
+}
+
+.products-grid .product-name {
+    margin: 0px 0px 5px;
+    font-size: 16px;
+    color: #203548;
+    text-align: center;
+}
+
+.products-grid .product-name a {
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.category-description{}
+
+ul.benefit{}
+
+.elements{
+  text-align: center;
+  font-style: italic;
+}
+
+ul.benefit{
+    margin: 0;
+    padding: 0;
+    list-style: outside none none;
+
+    .detoxflush, .energybooster, .antioxidantshot, .hearthealth, .musclepower{
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      overflow: hidden;
+      text-indent: -1000px;
+    }
+
+}
+
+.benefit-label{
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+
+.elements{
+
+}
