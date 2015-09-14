@@ -113,6 +113,43 @@ a {
         .foot-nav-wrap ul.foot-nav li a:hover {
           text-decoration: underline; }
 
+.icons {
+  text-align: right; }
+  .icons ul li {
+    list-style: none;
+    float: right; }
+    .icons ul li .facebook {
+      overflow: hidden;
+      background: url("../images/facebook.png") left center no-repeat;
+      text-indent: 100px;
+      height: 34px;
+      width: 34px;
+      display: inline-block; }
+    .icons ul li .instagram {
+      overflow: hidden;
+      background: url("../images/instagram.png") left center no-repeat;
+      text-indent: 100px;
+      height: 34px;
+      width: 34px;
+      display: inline-block; }
+
+.subscribe {
+  padding-top: 10px; }
+  .subscribe input {
+    line-height: 20px;
+    text-align: center;
+    color: #97254a;
+    padding: 0 5px;
+    width: 200px;
+    border: 1px solid #7e7f7d;
+    margin: 0;
+    -moz-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+    background-color: #fefbf0;
+    font-size: 9px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase; }
+
 .copyright p.copy {
   font-size: 11px;
   color: #9B1B64;
@@ -131,6 +168,13 @@ a {
     max-width: 870px;
     margin: auto auto 1em auto; }
 
+.category-description {
+  margin: 0 auto;
+  font-size: 14px;
+  text-align: center;
+  width: 80%;
+  display: block; }
+
 .category-products {
   margin-top: 30px; }
 
@@ -146,7 +190,7 @@ a {
   margin: 0 auto; }
 
 .products-grid .product-name {
-  margin: 0px 0px 5px;
+  margin: 10px 0px 5px;
   font-size: 16px;
   color: #203548;
   text-align: center; }
@@ -155,6 +199,14 @@ a {
   color: #000;
   text-transform: uppercase;
   text-decoration: none; }
+
+.products-grid .description {
+  text-align: center;
+  font-size: 14px;
+  font-style: italic;
+  width: 80%;
+  margin: 10px auto;
+  font-style: italic; }
 
 .elements {
   text-align: center;
