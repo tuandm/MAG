@@ -1,3 +1,13 @@
+
+.category-description {
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: center;
+    width: 80%;
+    display: block;
+}
+
+
 .category-products{
   margin-top: 30px;
 }
@@ -13,14 +23,13 @@
 }
 
 .product-image{
-
   img{
     margin: 0 auto;
   }
 }
 
 .products-grid .product-name {
-    margin: 0px 0px 5px;
+    margin: 10px 0px 5px;
     font-size: 16px;
     color: #203548;
     text-align: center;
@@ -32,7 +41,15 @@
     text-decoration: none;
 }
 
-.category-description{}
+.products-grid .description {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    width: 80%;
+    margin: 10px auto;
+    font-style:italic;
+}
+
 
 ul.benefit{}
 
@@ -62,7 +79,6 @@ ul.benefit{
   margin-top: 10px;
 }
 
+.elements{}
 
-.elements{
 
-}

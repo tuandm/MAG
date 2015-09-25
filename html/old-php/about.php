@@ -29,7 +29,7 @@
 
                 <p>The seed for Juice Junkie was planted in the US. Our founders were amazed at how big the juicing trend was becoming. Being curious bunnies, they tried a juice cleanse. It was love at first sip! Soon, they couldn’t stop themselves from putting cold-pressed juices into their grocery baskets at Whole Foods. The juices didn’t just taste good; they made them feel good. Returning to Singapore, their need to share their healthy passion grew (along with the intensity of their withdrawal symptoms). The rest, as they say, is history.</p>
 
-                <p>“We believe it is all about making small changes towards a healthier lifestyle. True health cannot be achieved overnight; it is the result of a conscious lifestyle choice. We encourage you to have a juice every day and make a change for life.”</p>
+                <p>"We believe it is all about making small changes towards a healthier lifestyle. True health cannot be achieved overnight; it is the result of a conscious lifestyle choice. We encourage you to have a juice every day and make a change for life."</p>
             </div>
 
           </div>

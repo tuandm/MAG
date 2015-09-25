@@ -1,1 +1,1 @@
-$(window).load(function(){$(".flexslider").flexslider({animation:"slide"})});
+$(window).load(function(){$(".flexslider").flexslider({animation:"fade"});var l=["logo1.png","logo2.png","logo3.png"];$("#logo").attr("src","images/"+l[Math.floor(Math.random()*l.length)]),$("li ul li").hide(),$("ul.main-nav li").hover(function(){$("ul.main-nav li ul li",this).show()},function(){$("ul.main-nav li ul li",this).hide()})});
